@@ -8,7 +8,7 @@
 
 📊 Dashboard Preview
 
- <!-- يمكنك استبدال الرابط بعد رفع الصورة إلى GitHub -->
+<img src="https://github.com/ahmadyase1234/nutrition-analysis/blob/main/nutrition%20%20analysis.PNG" width="1000">
 
 
 ---
